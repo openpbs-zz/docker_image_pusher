@@ -1,2 +1,2 @@
 nginx
-redhat/ubi8:8.8-1067.1698056881-source
+redhat/ubi8:8.8-1067.1698056881
