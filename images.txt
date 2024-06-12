@@ -1,2 +1,2 @@
-docker pull redhat/ubi8:latest
-docker pull centos:7.6.1810
+redhat/ubi8:latest
+centos:7.6.1810
