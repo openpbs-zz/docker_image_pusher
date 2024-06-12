@@ -1,2 +1,3 @@
 nginx
-redhat/ubi8:8.8-1067.1698056881
+redhat/ubi8:8.8-1067.1698056881-source
+docker pull redhat/ubi8:latest
