@@ -1,3 +1,1 @@
-sainiabhishek888/dcv-centos7-nogpu:v1.0
-centos:7.9.2009
-centos:centos8.4.2105
+rockylinux:8.9
