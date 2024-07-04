@@ -1,2 +1,2 @@
-dcv-centos7-gpu
+quay.io/centos7/php-73-centos7
 rockylinux:8.9
