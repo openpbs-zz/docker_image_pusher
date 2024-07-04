@@ -1,1 +1,2 @@
+dcv-centos7-gpu
 rockylinux:8.9
