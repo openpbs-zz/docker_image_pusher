@@ -1,2 +1,2 @@
-quay.io/centos7/php-73-centos7
+centos/php-73-centos7:latest
 rockylinux:8.9
