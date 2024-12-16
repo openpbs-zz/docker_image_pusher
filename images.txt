@@ -1,2 +1,1 @@
-zznk/labelstudio
 slievrly/chatglm
