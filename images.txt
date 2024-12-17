@@ -1,2 +1,2 @@
-hbigo/chatglm
-langchain/langchain
+cvat/ui
+cvat/server
