@@ -1,2 +1,2 @@
-cvat/ui
-cvat/server
+postgres
+redis
