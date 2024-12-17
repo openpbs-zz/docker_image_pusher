@@ -1,1 +1,1 @@
-mayanedms/mayanedms
+nextcloud/all-in-one
