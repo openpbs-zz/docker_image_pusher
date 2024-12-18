@@ -1,1 +1,1 @@
-ollama/ollama
+woshikid/langchain-chatchat
