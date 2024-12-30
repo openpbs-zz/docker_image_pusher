@@ -1,1 +1,1 @@
-woshikid/langchain-chatchat
+docker pull langgenius/dify-web
