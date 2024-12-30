@@ -1,1 +1,1 @@
-docker pull langgenius/dify-web
+langgenius/dify-web
